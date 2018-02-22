@@ -1,4 +1,0 @@
-/home/teddyxu/Software-Defined-Network-SDN-/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/teddyxu/Software-Defined-Network-SDN-/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/teddyxu/Software-Defined-Network-SDN-/cmake-build-debug/CMakeFiles/switch.bin.dir
-/home/teddyxu/Software-Defined-Network-SDN-/cmake-build-debug/CMakeFiles/controller.bin.dir

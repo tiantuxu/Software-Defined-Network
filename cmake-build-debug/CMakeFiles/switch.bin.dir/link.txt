@@ -1,1 +1,0 @@
-/usr/bin/g++-5    -fdiagnostics-color=auto -g -std=c++11 -g -O0 -Wall -Wfatal-errors   CMakeFiles/switch.bin.dir/switch.o  -o switch.bin -rdynamic 
