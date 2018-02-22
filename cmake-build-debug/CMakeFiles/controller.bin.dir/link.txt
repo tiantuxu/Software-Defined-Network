@@ -1,1 +1,1 @@
-/usr/bin/g++-5   -fdiagnostics-color=auto -g -std=c++11 -g -O0 -Wall -Wfatal-errors  -rdynamic CMakeFiles/controller.bin.dir/controller.o CMakeFiles/controller.bin.dir/dijkstra.o  -o controller.bin 
+/usr/bin/g++-5    -fdiagnostics-color=auto -g -std=c++11 -g -O0 -Wall -Wfatal-errors   CMakeFiles/controller.bin.dir/controller.o CMakeFiles/controller.bin.dir/dijkstra.o  -o controller.bin -rdynamic 

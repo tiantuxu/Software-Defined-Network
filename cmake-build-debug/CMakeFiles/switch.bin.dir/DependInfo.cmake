@@ -4,15 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/teddyxu/Desktop/zhu714.xu944/switch.cpp" "/home/teddyxu/Desktop/zhu714.xu944/cmake-build-debug/CMakeFiles/switch.bin.dir/switch.o"
+  "/home/teddyxu/Software-Defined-Network-SDN-/switch.cpp" "/home/teddyxu/Software-Defined-Network-SDN-/cmake-build-debug/CMakeFiles/switch.bin.dir/switch.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
-
-# Preprocessor definitions for this target.
-set(CMAKE_TARGET_DEFINITIONS_CXX
-  "CONFIG_KAGE_GLOBAL_DEBUG_LEVEL=30"
-  "DEBUG"
-  )
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

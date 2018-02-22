@@ -1,4 +1,4 @@
-#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
 
 #IncludeRegexScan: ^.*$
 
@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/teddyxu/Desktop/zhu714.xu944/controller.cpp
+/home/teddyxu/Software-Defined-Network-SDN-/controller.cpp
 sys/types.h
 -
 sys/socket.h
@@ -30,13 +30,13 @@ iostream
 fstream
 -
 message.h
-/home/teddyxu/Desktop/zhu714.xu944/message.h
+/home/teddyxu/Software-Defined-Network-SDN-/message.h
 graph.h
-/home/teddyxu/Desktop/zhu714.xu944/graph.h
+/home/teddyxu/Software-Defined-Network-SDN-/graph.h
 sys/time.h
 -
 
-/home/teddyxu/Desktop/zhu714.xu944/dijkstra.cpp
+/home/teddyxu/Software-Defined-Network-SDN-/dijkstra.cpp
 sys/types.h
 -
 stdio.h
@@ -50,13 +50,13 @@ string
 fstream
 -
 message.h
-/home/teddyxu/Desktop/zhu714.xu944/message.h
+/home/teddyxu/Software-Defined-Network-SDN-/message.h
 graph.h
-/home/teddyxu/Desktop/zhu714.xu944/graph.h
+/home/teddyxu/Software-Defined-Network-SDN-/graph.h
 bits/stdc++.h
 -
 
-/home/teddyxu/Desktop/zhu714.xu944/graph.h
+/home/teddyxu/Software-Defined-Network-SDN-/graph.h
 utility
 -
 list
@@ -64,7 +64,7 @@ list
 vector
 -
 
-/home/teddyxu/Desktop/zhu714.xu944/message.h
+/home/teddyxu/Software-Defined-Network-SDN-/message.h
 string
 -
 map
@@ -78,7 +78,7 @@ array
 tuple
 -
 graph.h
-/home/teddyxu/Desktop/zhu714.xu944/graph.h
+/home/teddyxu/Software-Defined-Network-SDN-/graph.h
 sys/types.h
 -
 sys/socket.h
